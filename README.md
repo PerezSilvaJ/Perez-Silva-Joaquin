@@ -1,5 +1,5 @@
-# Soy Perez Silva y me gusta lo que no tenga que ver con aeronautica.
-Imagen de Messi.
+# Estudiante de Avionica.
 
+Tengo mas ideas que proyectos terminados.
 
-![Imagennn](image-1.png)
+Hago circuitos, escribo código. A veces combinan ambas cosas.
